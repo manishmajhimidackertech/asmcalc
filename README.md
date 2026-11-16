@@ -1,5 +1,7 @@
 # x86 Firmware Calculator
 
+![The calculator running under legacy BIOS in QEMU](screenshots/bios.png)
+
 A firmware-setup-style calculator written entirely in x86 assembly (NASM).
 It boots directly, with no operating system, on:
 
