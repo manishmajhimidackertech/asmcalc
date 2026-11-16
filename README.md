@@ -2,6 +2,8 @@
 
 ![The calculator running under legacy BIOS in QEMU](screenshots/bios.png)
 
+![The calculator running under 64-bit UEFI in QEMU](screenshots/uefi.png)
+
 A firmware-setup-style calculator written entirely in x86 assembly (NASM).
 It boots directly, with no operating system, on:
 
