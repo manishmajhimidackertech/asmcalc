@@ -2,7 +2,7 @@
 ; data.inc - constants and variables used by core.inc
 ; ---------------------------------------------------------------------------
 
-s_title:        db "x86 Firmware Calculator", 0
+s_title:        db "Written in x86 Assembly", 0
 s_title_len     equ $ - s_title - 1
 s_panel:        db " Calculator ", 0
 s_panel_len     equ $ - s_panel - 1
