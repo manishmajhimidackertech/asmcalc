@@ -1,4 +1,4 @@
-# x86 Firmware Calculator
+# Written in x86 Assembly
 
 ![The calculator running under legacy BIOS in QEMU](screenshots/bios.png)
 
